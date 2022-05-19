@@ -1,7 +1,4 @@
-[[redirects]]
-from="/*"
-to ="/index.html"
-status=200
+
 import { useState } from 'react';
 import './App.css';
 import BmiList from './components/BmiList';
